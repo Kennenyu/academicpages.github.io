@@ -8,25 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-于爱琴 
-
 Assistant Professor, Liaoning Technical University (LNTU)
 
 副教授 辽宁工程技术大学
 
-Email: kennenyu@outlook.com
+Email: [kennenyu@outlook.com](kennenyu@outlook.com)
 
 Research Area
 ---
-English Language literature
+English language literature
 
 Educational Leadership
 
 Academic Qualifications
 ---
-Ph.D., the University of Nottingham
+Ph.D. in Education, the University of Nottingham
 
-MA English Literature, Nankai University.
+MA in English Language Literature, Nankai University.
 
 Publications
 ---
@@ -56,4 +54,4 @@ Yu, A. (2015). A Study of University Teachers' Enactment of Curriculum Reform in
 
 于爱琴. (2006). 男子沙文主义者还是女性主义盟友--试论d·h·劳伦斯对女性的矛盾态度. 辽宁师范大学学报（社会科学版）, 029(004), 112-113.
 
-于爱琴. (2004). 爱恨交织——试论劳伦斯对女性的矛盾态度. (Doctoral dissertation, 天津师范大学).
+于爱琴. (2004). 爱恨交织——试论劳伦斯对女性的矛盾态度. (Master's thesis, 天津师范大学).
