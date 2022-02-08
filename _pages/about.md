@@ -25,7 +25,7 @@ Academic Qualifications
 ---
 Ph.D. in Education, the University of Nottingham
 
-MA in English Language Literature, Nankai University.
+MA in English Language Literature, Tianjin Normal University.
 
 Publications
 ---
