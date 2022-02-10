@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Associate Professor, Liaoning Technical University (LNTU)
+Associate professor, Liaoning Technical University (LNTU)
 
 副教授 辽宁工程技术大学
 
